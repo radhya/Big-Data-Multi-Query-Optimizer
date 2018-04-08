@@ -7,4 +7,4 @@ Multi-Query Optimization using Tuple Size and Histogram (MOTH) system has been p
 ==============================================
 The JAS-MOTH System
 ==============================================
-Join Aggregation Sort-MOTH system (JAS-MOTH) is an extension of MOTH system to exploit sharing work among multi-query. 
+Join Aggregation Sort-MOTH system (JAS-MOTH) is an extension of MOTH system to exploit sharing work among multi-query.
