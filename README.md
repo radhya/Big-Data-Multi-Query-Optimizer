@@ -1,5 +1,5 @@
 # Big Data Multi-Query Optimizer
-Authors: Radhya Sahal, Mohamed H. Khafgym and Fatma A. Omara
+Authors: Radhya Sahal, Mohamed H. Khafgy and Fatma A. Omara
 ==============================================
 The MOTH System
 ==============================================
