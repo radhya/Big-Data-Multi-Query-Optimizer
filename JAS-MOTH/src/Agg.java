@@ -6,7 +6,7 @@ package org.apache.flink.examples.java.relational;
 
 /**
  *
- * @author hadoop
+ * @author Radhya Sahal
  */
 
 
