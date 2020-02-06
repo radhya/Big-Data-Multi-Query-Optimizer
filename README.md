@@ -14,6 +14,7 @@ https://link.springer.com/article/10.1007/s10723-018-9431-9
 The JAS-MOTH System
 ==============================================
 Join Aggregation Sort-MOTH system (JAS-MOTH) is an extension of MOTH system to exploit sharing work among multi-query.
-Part of the JAS-MOTH system is published Big Data journal
+Part of the JAS-MOTH system is available at:
+
 1-SOOM: Sortbased Optimizer for Big Data Multi-Query
 https://www.liebertpub.com/doi/abs/10.1089/big.2019.0023 
