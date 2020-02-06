@@ -3,6 +3,7 @@
 The MOTH System
 ==============================================
 Multi-Query Optimization using Tuple Size and Histogram (MOTH) system has been proposed to consider the granularity of the reused-based opportunities. The proposed MOTH system exploits the coarse-grained of the fully and partially reused-based opportunities among queries with considering non-equal tuples size and non-uniform data distribution to avoid repeated computations.  The publications are available at 
+
 Exploiting Coarse-grained Reused-based Opportunities in Big Data Multi-Query Optimization
 https://www.sciencedirect.com/science/article/pii/S1877750317306142
 
